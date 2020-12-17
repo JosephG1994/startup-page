@@ -1,1 +1,1 @@
-# startup-page
+# startup sample page
